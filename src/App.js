@@ -37,10 +37,10 @@ function App() {
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("/img/mt-carmel-shrine.jpg", "Mt. Carmel Shrine")} 
+            onClick={() => openModal("/img/mt-carmel-shrine.jpg", "Our Lady of Mt. Carmel Shrine")} 
             src="/img/mt-carmel-shrine.jpg" 
             className="cards__item__img" 
-            alt="Mt. Carmel Shrine"
+            alt="Our Lady of Mt. Carmel Shrine"
           />
         </CardItems>
         <CardItems>

@@ -37,9 +37,8 @@ export const Modal = (props) => {
                     <animated.div style={animation}>
                     <div className="modal-wrapper">
                         <img className="modal-img" src={props.setImg} />
-                        <div className="modal-txtholder">
-                            {props.setID}
-                        </div>
+                        <div className="modal-txtholder">{props.setID}</div>
+                        <div className="modal-credit">*This photo is from google.com*</div>
                         <div className="modal-close" onClick={() => props.setShowModal(prev=>!prev)}>x</div>
                     </div>
                     </animated.div>

@@ -23,6 +23,7 @@
     margin: 0 auto;
     z-index: 10;
     border-radius: 10px;
+    
 }
 
 .modal-img {
@@ -35,7 +36,7 @@
 
 .modal-txtholder {
     position: relative;
-    margin: 10px auto;
+    margin: 10px auto 0px auto;
 }
 
 .modal-close {
@@ -48,6 +49,12 @@
     color: #fff;
     font-family: 'Comic Sans MS';
     font-size: 1rem;
+}
+
+.modal-credit {
+    font-style: italic;
+    font-size: 10px;
+    margin: 0px auto 10px auto;
 }
 
 @media only screen and (max-width: 960px) {
