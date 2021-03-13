@@ -29,48 +29,48 @@ function App() {
       <Cards>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/manila-cathedral.jpg", "Manila Cathedral")} 
-            src="./assets/img/manila-cathedral.jpg" 
+            onClick={() => openModal("/assets/img/manila-cathedral.jpg", "Manila Cathedral")} 
+            src="/assets/img/manila-cathedral.jpg" 
             className="cards__item__img" 
             alt="Manila Cathedral"
           />
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/mt-carmel-shrine.jpg", "Our Lady of Mt. Carmel Shrine")} 
-            src="./assets/img/mt-carmel-shrine.jpg" 
+            onClick={() => openModal("/assets/img/mt-carmel-shrine.jpg", "Our Lady of Mt. Carmel Shrine")} 
+            src="/assets/img/mt-carmel-shrine.jpg" 
             className="cards__item__img" 
             alt="Our Lady of Mt. Carmel Shrine"
           />
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/Our_Lady_of_Grace_Church_in_Makati.jpg", "Our Lady of Grace Church in Makati")} 
-            src="./assets/img/Our_Lady_of_Grace_Church_in_Makati.jpg" 
+            onClick={() => openModal("/assets/img/Our_Lady_of_Grace_Church_in_Makati.jpg", "Our Lady of Grace Church in Makati")} 
+            src="/assets/img/Our_Lady_of_Grace_Church_in_Makati.jpg" 
             className="cards__item__img" 
             alt="Our Lady of Grace Church in Makati"
           />
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/our-lady-of-the-abandoned.jpg", "Our Lady of the Abandoned")} 
-            src="./assets/img/our-lady-of-the-abandoned.jpg" 
+            onClick={() => openModal("/assets/img/our-lady-of-the-abandoned.jpg", "Our Lady of the Abandoned")} 
+            src="/assets/img/our-lady-of-the-abandoned.jpg" 
             className="cards__item__img" 
             alt="Our Lady of the Abandoned"
           />
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/parish-of-the-hearts-of-jesus-and-mary.jpg", "Parish of the Hearts of Jesus and Mary")} 
-            src="./assets/img/parish-of-the-hearts-of-jesus-and-mary.jpg" 
+            onClick={() => openModal("/assets/img/parish-of-the-hearts-of-jesus-and-mary.jpg", "Parish of the Hearts of Jesus and Mary")} 
+            src="/assets/img/parish-of-the-hearts-of-jesus-and-mary.jpg" 
             className="cards__item__img" 
             alt="Parish of the Hearts of Jesus and Mary"
           />
         </CardItems>
         <CardItems>
           <img 
-            onClick={() => openModal("./assets/img/quiapo-church.jpg", "Quiapo Church")} 
-            src="./assets/img/quiapo-church.jpg" 
+            onClick={() => openModal("/assets/img/quiapo-church.jpg", "Quiapo Church")} 
+            src="/assets/img/quiapo-church.jpg" 
             className="cards__item__img" 
             alt="Quiapo Church"
           />
