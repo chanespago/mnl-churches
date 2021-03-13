@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mnl-churches/static/css/main.8001ebe3.chunk.css",
-    "main.js": "/mnl-churches/static/js/main.b6485f52.chunk.js",
-    "main.js.map": "/mnl-churches/static/js/main.b6485f52.chunk.js.map",
+    "main.js": "/mnl-churches/static/js/main.d958641a.chunk.js",
+    "main.js.map": "/mnl-churches/static/js/main.d958641a.chunk.js.map",
     "runtime-main.js": "/mnl-churches/static/js/runtime-main.a986f406.js",
     "runtime-main.js.map": "/mnl-churches/static/js/runtime-main.a986f406.js.map",
     "static/js/2.1248c7a7.chunk.js": "/mnl-churches/static/js/2.1248c7a7.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a986f406.js",
     "static/js/2.1248c7a7.chunk.js",
     "static/css/main.8001ebe3.chunk.css",
-    "static/js/main.b6485f52.chunk.js"
+    "static/js/main.d958641a.chunk.js"
   ]
 }
