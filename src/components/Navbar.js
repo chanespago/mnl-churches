@@ -6,7 +6,7 @@ export const Navbar = () => {
         <>
             <nav className="navbar">
                 <div className="navbar-container">
-                    <a className="navbar-logo ">
+                    <a href="#" className="navbar-logo ">
                         HDPHL <i className="fab fa-typo3"></i>
                     </a>
                 </div>
